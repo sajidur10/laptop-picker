@@ -1,0 +1,19 @@
+footer {
+    height: 50px;
+    background-color: #1C2B35;
+    padding-left: 140px;
+    padding-right: 140px;
+    color: #FFFFFF;
+    font-size: 17px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+footer:hover {
+    color: orange;
+}
