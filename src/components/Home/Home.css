@@ -1,0 +1,13 @@
+.home-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.home-info {
+    width: 45%;
+}
+
+.home-img {
+    width: 45%;
+}

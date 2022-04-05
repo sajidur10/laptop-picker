@@ -1,11 +1,11 @@
 import React from 'react';
+import notfound from '../../Images/notfound.jpg'
+import './Notfound.css'
 
 const Notfound = () => {
     return (
-        <div>
-            <h1>Not found</h1>
-        </div>
+        <img src={notfound} alt=''></img>
     );
 };
 
-export default Notfound; <h1>Not found</h1>
+export default Notfound;

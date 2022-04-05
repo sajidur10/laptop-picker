@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/archive/4/43/20150813003602%21Paul_Circle.png",
+    "name": "Laura Morris",
+    "time": "18th July, 2020",
+    "review": "Reading the reviews for this PC, I was expecting this laptop to sound like it's about to take off at mach 5, but it's really not that loud compared to a struggling older PC or an original PS4 pro whose fan is overworked on newer games. Sure it's not quiet by any means, but not nearly as distracting as I anticipated. Performs well but does get pretty warm during intensive gaming even with an additional cooling pad .",
+    "ratings": 5
+  },
+  {
+    "id": "2",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/archive/4/43/20150814164412%21Paul_Circle.png",
+    "name": "Brooke Church",
+    "time": "19th July, 2020",
+    "review": "No issues so far, great laptop for the price. The larger screen I love; I did do an upgrade to 16GB DDR4 and added 1T secondary m2, still have room for a standard SSD if I want. The upgrade wasn't a required upgrade just something I did to make it a bit more future proof and expand so I could also use it for work. Even with the upgrade the price is below 1100.00 for a very capable Gaming machine.",
+    "ratings": 4
+  },
+  {
+    "id": "3",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/archive/4/43/20150814164647%21Paul_Circle.png",
+    "name": "Preston Pace",
+    "time": "15th July, 2020",
+    "review": "I had the Asus 750 before that for which I paid around $1250 and after 7 years began to show its age - albeit still very useable. Thinking needed to spend that amount again or even more, my local computer guy recommended the F17, voicing several very distinct features which this had, over my old one.",
+    "ratings": 5
+  },
+  {
+    "id": "4",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/archive/4/43/20150814182736%21Paul_Circle.png",
+    "name": "Donovan Meyer",
+    "time": "17th July, 2020",
+    "review": "So I got this to play FF14 while I travel and am away from my actual gaming PC, and this does the job perfectly. It's just generally a really capable laptop -- handles streaming, gaming, did some remote work and calls on it np, etc. I love how lightweight and quiet it is.",
+    "ratings": 5
+  },
+  {
+    "id": "5",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/archive/4/43/20150912170242%21Paul_Circle.png",
+    "name": "Rivers Lancaster",
+    "time": "14th July, 2020",
+    "review": "This is nice! This is cool! Son loves it. I don’t know what some people are getting their panties in a twist about the fan. Yes you hear it but it’s not like a jet engine hitting mock 3. One thing though, it does get the hot air out. I can feel it coming out. The 17.3 screen is awesome and my son had a huge smile. Upgradable too. So many gaming lap tops, so many prices and specs to drive you crazy. ",
+    "ratings": 4
+  },
+  {
+    "id": "6",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/4/43/Paul_Circle.png",
+    "name": "Ayala Beach",
+    "time": "18th July, 2020",
+    "review": "As others have said before there are issues with the Wi-Fi Adapter and the battery. For me those are alright since I'm planning to buy a Wi-Fi adapter anyways and i use it on wall power most of the time. The issue I actually have problem with is the webcam. It randomly connects and disconnects though its disconnected most of the time. It just says",
+    "ratings": 4.5
+  }
+]
