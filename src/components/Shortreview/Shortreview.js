@@ -16,7 +16,7 @@ const Shortreview = () => {
                 }
             </div>
             <div>
-                <Link to="/allreviews"><button className='font-bold text-xl rounded-full bg-red-500 py-2 px-6 mb-10'>See All Reviews</button></Link>
+                <Link to="/allreviews"><button className='font-bold text-xl rounded-full bg-cyan-600 text-white	 py-2 px-6 mb-10 hover:bg-sky-700'>See All Reviews</button></Link>
             </div>
         </div>
     );

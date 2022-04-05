@@ -10,9 +10,9 @@ const Review = ({ cusReview }) => {
             <div className='review  flex items-center flex-col border h-96 p-5 drop-shadow-lg'>
                 <img className='w-20' src={picture} alt=""></img>
                 <div className='review-info'>
-                    <p>{name}</p>
+                    <p className='font-bold'>{name}</p>
                     <p><small>{time}</small></p>
-                    <p><small>Ratings: {ratings} out of 5</small></p>
+                    <p className='font-bold'><small>Ratings: {ratings} out of 5</small></p>
                     <p>{review}</p>
 
 
